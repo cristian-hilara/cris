@@ -1,4 +1,20 @@
 ## Hilara Calle Cristian Ramiro
+### Requisitos
+- Python 3.7 o superior
+- tkinter (incluido por defecto en Python)
+
+### Librerías utilizadas
+- `tkinter` - Para la interfaz gráfica
+- `tkinter.ttk` - Para widgets con temas modernos  
+- `tkinter.messagebox` - Para cuadros de diálogo
+- `matplotlib` - Para generar gráficas y visualizaciones
+- `matplotlib.backends.backend_tkagg` - Para integrar matplotlib con tkinter
+- `numpy` - Para cálculos numéricos y manejo de arrays
+- `scipy.stats` - Para la distribución Chi-cuadrado y cálculos estadísticos
+- `math` - Para operaciones matemáticas básicas
+
+### Instalación de dependencias
+- pip install matplotlib numpy scipy
 
 # ALGORITMO DE CUADRADOS MEDIOS
 manejo: 
