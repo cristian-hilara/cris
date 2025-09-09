@@ -56,6 +56,7 @@ observamos la corrida de un ejemplo realizado en clases
 ### Ejemplo de ejecución
 Aquí una captura de pantalla del programa en funcionamiento con el grafico mostrando LS Y LI:
 ![Demo](assets/medias.png)
+#### fuente :  cloude.ai y youtube elferisaias
 
 # PRUEBA DE VARIANZA
 manejo: 
@@ -66,6 +67,7 @@ observamos la corrida de un ejemplo realizado en clases
 ### Ejemplo de ejecución
 Aquí una captura de pantalla del programa en funcionamiento con el grafico mostrando LS Y LI::
 ![Demo](assets/varianza.png)
+#### fuente :  cloude.ai
 
 
 # PRUEBA DE UNIFORMIDAD
@@ -78,6 +80,7 @@ observamos la corrida de un ejemplo realizado en clases
 ### Ejemplo de ejecución
 Aquí una captura de pantalla del programa en funcionamiento con el grafico mostrando LS Y LI::
 ![Demo](assets/uniformidad.png)
+#### fuente :  cloude.ai y youtube profe roja
 
 # PRUEBA DE UNIFORMIDAD CHI-CUADRADO
 manejo: 
@@ -90,3 +93,4 @@ observamos la corrida de un ejemplo realizado en clases
 ## Ejemplo de ejecución
 Aquí una captura de pantalla del programa en funcionamiento con el grafico mostrando LS Y LI::
 ![Demo](assets/chi.png)
+#### fuente :  cloude.ai y youtube: profe roja
