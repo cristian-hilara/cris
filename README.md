@@ -49,7 +49,7 @@ Aquí una captura de pantalla del programa en funcionamiento:
 
 # PRUEBA DE MEDIAS
 manejo: 
-- 1 ingresar los numeros seaparados en comas 
+- 1 ingresar los numeros separados en comas 
 - 2 elegir el valor de la significacia
 - 3 hacer click en calcular prueba
 observamos la corrida de un ejemplo realizado en clases
@@ -59,7 +59,7 @@ Aquí una captura de pantalla del programa en funcionamiento con el grafico most
 
 # PRUEBA DE VARIANZA
 manejo: 
--1 ingresar los numeros seaparados en comas 
+-1 ingresar los numeros saparados en comas 
 -2 elegir el valor de la significacia
 -3 hacer click en calcular prueba
 observamos la corrida de un ejemplo realizado en clases
@@ -70,7 +70,7 @@ Aquí una captura de pantalla del programa en funcionamiento con el grafico most
 
 # PRUEBA DE UNIFORMIDAD
 manejo: 
-- 1 ingresar los numeros seaparados en comas 
+- 1 ingresar los numeros separados en comas 
 - 2 elegir el valor de la significacia
 - 3 elegir el intervalo k
 - 4 hacer click en calcular prueba
@@ -81,7 +81,7 @@ Aquí una captura de pantalla del programa en funcionamiento con el grafico most
 
 # PRUEBA DE UNIFORMIDAD CHI-CUADRADO
 manejo: 
-- 1 ingresar los numeros seaparados en comas 
+- 1 ingresar los numeros separados en comas 
 - 2 elegir el valor de la significacia
 - 3 elegir el intervalo k
 - 4 tambie te da elegir metodo de intervalo k
